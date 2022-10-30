@@ -1,7 +1,7 @@
 * {
-    box-sizing: border-box; /*css box model border-box tells browser to include any border or padding and adjust sizing*/
-    padding: 0; /*push inner elements together*/
-    margin: 0;/*separates elements*/
+    box-sizing: border-box; /*css box model border-box*/
+    padding: 0; 
+    margin: 0;
 }
 
 body {
@@ -20,7 +20,7 @@ header h1 { /*first heading size and location on bar*/
     font-size: 48px;
 }
 
-header h1 .seo { /*'seo' part of header has defined colour*/
+header h1 .seo { /*'seo' element of header has defined colour*/
     color: #d9dcd6;
 }
 
